@@ -2,8 +2,7 @@
 This class will understand the application and physical significance of control engineering theory through practice by learning Matlab, Simulink, BLDC motor Lab, and implement LEGO Final Project
 ## Final report: Tracking Wheel Robot
 [Video] https://youtu.be/_vlSjv4uhcM
-![Uploading 截圖 2024-03-12 下午9.04.18.png…]()
-
+<img width="1440" alt="截圖 2024-03-12 下午9 08 52" src="https://github.com/boboloiono/Control-Engineering-Lab/assets/62455939/329f17c4-24b0-46f1-8478-4b6f9233ab45">
 
 ### Program execution flow
 Press touchSensor:
